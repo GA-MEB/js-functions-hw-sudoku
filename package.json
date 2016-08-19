@@ -1,0 +1,15 @@
+{
+  "name": "js-functions-hw-sudoku",
+  "version": "1.0.0",
+  "description": "Homework assignment -- create a function that can validate solutions to a sudoku puzzle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "javascript",
+    "functions"
+  ],
+  "author": "Matt Brendzel",
+  "license": "GPL-3.0"
+}

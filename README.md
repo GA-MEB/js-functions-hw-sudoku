@@ -48,7 +48,7 @@ e.g.
 ];
 ```
 
-Assume for simplicity's that all Sudoku boards will have acceptable values
+Assume for simplicity's sake that all Sudoku boards will have acceptable values
 (i.e. numbers from 0 to 9) in each cell, and not any other kind of value.
 
 > HINT: Try breaking up this problem into smaller problems. Are there any
@@ -70,7 +70,7 @@ To run these tests, type `npm test` into the console from the root directory
 of this repo. Test your work regularly, and read the feedback from the tests
 carefully -- it may give you a clue about what to do next.
 
-## Reach Target
+### Reach Target
 
 > NOTE: Do not attempt until every other objective is met.
 
@@ -86,3 +86,10 @@ that the player can only input values that are numbers between 1 and 9.
 
 Tests have also been written for this reach target. To run them, use the
 command `mocha test/reach.js`.
+
+## Submitting Your Work
+
+When you're ready to submit your work, push the code to your fork on GitHub.
+Then, create an issue on the `wdi-remote-...` repo using the same convention
+as before: "YourGitHubUsername -- Week XX Day XX". Be sure to add a link that
+points to your fork to the issue!

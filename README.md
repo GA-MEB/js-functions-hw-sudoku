@@ -102,5 +102,7 @@ command `mocha test/reach.js`.
 
 When you're ready to submit your work, push the code to your fork on GitHub.
 Then, create an issue on the `wdi-remote-...` repo using the same convention
-as before: "YourGitHubUsername -- Week XX Day XX". Be sure to add a link in
-the issue body that points to your fork!
+as before: "YourGitHubUsername -- Week XX Day XX". Run the test suite one last
+time, and paste the output into the issue's body. Also include a link that
+points back to the code on your fork, and a 'comfort' score for your
+understanding of the material.

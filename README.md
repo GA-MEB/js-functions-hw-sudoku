@@ -2,6 +2,15 @@
 
 # Homework : Sudoku Validator
 
+<!-- MATERIALS METADATA -->
+<!--
+  title: 'Sudoku Validator'
+  type: homework
+  duration: ??
+  creators: Matt Brendzel
+  competencies: javascript, problem solving
+-->
+
 ## Setup
 
 Before you begin, please fork this repo to your GitHub account, and then clone
